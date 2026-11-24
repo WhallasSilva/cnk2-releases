@@ -4,7 +4,8 @@
     {
       "name": "Oficial BR (Playit)",
       "host": "wap-perry.tun.ply.gg",
-      "port": 1875
+      "port": 1875,
+      "fallback_ip": "147.185.221.217"
     }
   ]
 }
