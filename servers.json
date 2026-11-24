@@ -1,0 +1,10 @@
+{
+  "notice": "",
+  "servers": [
+    {
+      "name": "Oficial BR (Playit)",
+      "host": "wap-perry.tun.ply.gg",
+      "port": 1875
+    }
+  ]
+}
