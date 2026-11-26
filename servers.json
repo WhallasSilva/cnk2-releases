@@ -2,6 +2,12 @@
   "notice": "",
   "servers": [
     {
+      "name": "Oficial VPS (24/7)",
+      "host": "35.229.72.228",
+      "port": 25565,
+      "fallback_ip": "35.229.72.228"
+    },
+    {
       "name": "Oficial BR (Playit)",
       "host": "wap-perry.tun.ply.gg",
       "port": 1875,
