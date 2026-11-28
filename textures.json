@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "updated_at": "2026-11-28",
+  "packs": [
+    {
+      "id": "xbr4x_oficial",
+      "name": "Remaster 4x Nitido (Oficial)",
+      "author": "Whallas",
+      "version": "1.0",
+      "sprites": 208,
+      "size_bytes": 2134952,
+      "description": "xBR 4x com bordas suaves AA. Fiel ao estilo original sem lavar detalhes.",
+      "url": "https://github.com/WhallasSilva/cnk2-releases/releases/download/textures/cnk2_hd_pack.zip"
+    },
+    {
+      "id": "ia_realesrgan_4x",
+      "name": "Pack IA 4x (Suave)",
+      "author": "Whallas",
+      "version": "1.0",
+      "sprites": 208,
+      "size_bytes": 13002342,
+      "description": "Upscale neural Real-ESRGAN 4x com acabamento pintado/suave.",
+      "url": "https://github.com/WhallasSilva/cnk2-releases/releases/download/textures/ia_pack_cnk2_hd_pack.zip"
+    }
+  ]
+}
